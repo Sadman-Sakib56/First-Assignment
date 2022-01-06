@@ -42,5 +42,28 @@ section{
     color: white;
     padding: 10px 40px;
     border-radius: 10px;
-    background
+}
+.abc{
+    display: flex;
+    width: 25%;
+    padding-left: 38%;
+    font-size: 30px;
+}
+.collum{
+    box-shadow: orangered;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 23%;
+    padding-left:25px;
+    border-radius: 15%;
+
+}
+#mission{
+    background-color: rgb(223, 195, 168);
+}
+#vission{
+    background-color: rgb(219, 169, 219);
+}
+#goals{
+    background-color: rgb(231, 192, 180);
 }
