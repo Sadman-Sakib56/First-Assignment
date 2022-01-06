@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 0%;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+}
+#line-dibo{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(250, 64, 7),rgb(230, 216, 19));
+    border-image-slice: 1%; 
+    padding-left: 20px;  
+}
+.red{
+    color: red;
+}
+section{
+    display: flex;
+}
+.half-width-1{
+    width: 40%;
+    text-align: justify;
+    padding-left: 8%;
+    padding-top: 8%;
+}
+
+.half-width{
+    width: 20%;
+    padding-left: 10%;
+}
+.button-color{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 116, 3),rgb(78, 72, 74));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background
+}
